@@ -1,0 +1,10 @@
+#ball
+{
+    width: 15vw;
+    height: 15vh;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: absolute;
+    top:45%;
+    left: 45%;
+}
